@@ -37,6 +37,7 @@ MIRYOKU_LAYER_LIST
 };
 
 #include "miryoku_shift_functions.dtsi"
+#include "custom_combos.dtsi"
 
 #if defined (MIRYOKU_KLUDGE_MOUSEKEYSPR)
   #include "miryoku_kludge_mousekeyspr.dtsi"
