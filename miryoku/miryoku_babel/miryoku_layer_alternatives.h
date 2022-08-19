@@ -7,7 +7,7 @@
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
-&hm LCTRL A,       &hm LGUI S,        &hm LALT D,        &hm LSHFT F,       &kp G,             &kp H,             &hm RSHFT J,       &hm LALT K,        &hm LGUI L,        &hm LCTRL SQT,      \
+&hm LCTRL A,       &hm LGUI S,        &hm LALT D,        &hm LSHFT F,       &kp G,             &kp H,             &hm RSHFT J,       &hm LALT K,        &hm LGUI L,        &hm LCTRL SEMICOLON,      \
 &lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
 U_NP,              U_NP,              U_NA,              &lt U_NUM ESC,     &lt U_SYM SPC,     &lt U_MOUSE BSPC,  &lt U_NAV RET,     U_NA,              U_NP,              U_NP
 
@@ -31,7 +31,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_ALTERNATIVES_SYM_FLIP \
 &bootloader,       U_NA,              U_NA,              U_NA,              U_NA,              &kp CARET,         &kp AMPS,          &kp LPAR,          &kp RPAR,          &kp TILDE,          \
-&kp LCTRL,         &kp LGUI,          &kp LALT,          &kp LSHFT,         U_NA,              &kp AT,            &kp EXCL,          &kp LBKT,          &kp RBKT,          &kp COLON,         \
+&kp LCTRL,         &kp LGUI,          &kp LALT,          &kp LSHFT,         U_NA,              &kp AT,            &kp EXCL,          &kp LBKT,          &kp RBKT,          &kp SQT,         \
 U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              &kp PIPE,          &kp HASH,          &kp LBRC,          &kp RBRC,          &kp GRAVE,         \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp DLLR,          &kp PRCT,          U_NA,              U_NP,              U_NP
 
