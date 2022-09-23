@@ -18,7 +18,7 @@ U_NP,              U_NP,              U_NA,              &lt U_NUM ESC,     &lt 
 U_NP,              U_NP,              U_NA,              &kp F12,           U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MOUSE_INVERTEDT_FLIP \
-U_WH_L,            U_WH_R,            U_MS_U,            U_WH_D,            U_NU,              &u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       &bootloader,       \
+U_WH_L,            U_WH_U,            U_MS_U,            U_WH_D,            U_NU,              &u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       &bootloader,       \
 U_WH_R,            U_MS_L,            U_MS_D,            U_MS_R,            U_BTN3,            &kp C_MUTE,        &kp LSHFT,         &kp LALT,          &kp LGUI,          &kp LCTRL,          \
 U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             &kp C_PREV,        &kp C_VOL_DN,      &kp C_VOL_UP,      &kp C_NEXT,        &kp C_PP,              \
 U_NP,              U_NP,              U_NA,              U_BTN2,            U_BTN1,            U_NA,              U_NA,              U_NA,              U_NP,              U_NP
