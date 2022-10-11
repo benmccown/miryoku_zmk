@@ -5,11 +5,11 @@
 
 #include <dt-bindings/zmk/mouse.h>
 
-#define U_MOUSE_MOVE_MAX 2000
+#define U_MOUSE_MOVE_MAX 2400
 #define U_MOUSE_MOVE_EXPONENT 1
-#define U_MOUSE_MOVE_TIME 400
+#define U_MOUSE_MOVE_TIME 250
 #define U_MOUSE_MOVE_DELAY 0
-#define U_MOUSE_SCROLL_MAX 100
+#define U_MOUSE_SCROLL_MAX 40
 #define U_MOUSE_SCROLL_EXPONENT 1
 #define U_MOUSE_SCROLL_TIME 5000
 #define U_MOUSE_SCROLL_DELAY 0
